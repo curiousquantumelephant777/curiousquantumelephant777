@@ -1,25 +1,28 @@
-# Julia Berman – Quantum & Systems Biology Researcher
+# Julia Berman
 
-**UCLA B.S. Biology, June 2022**
+## **UCLA B.S. Biology '22**  
+Independent researcher in quantum & systems biology with a neurodiversity-affirming perspective.
 
-Independent researcher exploring the intersection of quantum phenomena, systems biology, and neurodevelopment with a neurodiversity-affirming lens.
+### 🧬 Research Focus
+I'm investigating how quantum phenomena may influence biological coherence, plasticity, and neurodevelopment. My work bridges computational modeling, epigenetics, and endogenous signaling pathways.
 
-### Current Research Interests
-- Quantum modeling of biological coherence & open quantum systems (using QuTiP for simulations)
-- Biophotonic transduction and potential fractal lattice structures in Z-DNA
-- GDNF stimulation (via natural polyphenols & exercise) for targeted neuronal growth in autism spectrum disorder
-- Therapeutic mechanisms of psychedelics in autistic individuals
-- Endogenous empathogen & tryptamine pathways linking ASD and Williams syndrome
-- Epigenetic regulation via GTF2I gene deletion and its role in hypersociability/plasticity
-- INMT theory: Endogenous tryptamine biosynthesis as a modulator of neurodevelopmental traits
+### 🧪 **Core Areas:**
+- Quantum modeling of biological coherence using computational simulations (Python)
+- Biophotonic transduction and potential fractal lattice structures in microtubules and DNA
+- GDNF stimulation (plant-based compounds + exercise) for targeted neuronal growth in autism spectrum disorder
+- Therapeutic potential of psychedelics in autistic individuals
+- Endogenous empathogen/tryptamine pathways, including my developing **INMT theory** on endogenous tryptamine biosynthesis
+- Epigenetic effects of **GTF2I** gene deletion in Williams syndrome and its contrast with ASD phenotypes
 
-### Tools & Methods (Still In Research Summary/Information Gathering/Model Drafting Phase, Planned List of Models)
-- Python (core language)
-- QuTiP (quantum toolbox for open systems)
-- SymPy (symbolic math for wavefunction/dynamical analysis)
-- Computational frameworks for fractal & epigenetic simulations
+### 🔬 Approach
+I use computational tools (Python) to explore how reduced external electromagnetic “static” and chemical “wedges” (e.g., phenethylamines or endogenous tryptamines) may enable superior phase-locking and coherence in neural systems, particularly microtubule lattices in the Orch-OR framework.
 
-Open to collaboration, feedback, and discussion on neurodiversity, quantum biology, and computational approaches to ASD/Williams syndrome. Note all research is purely for legal and ethical purposes (thought experiments and computational modeling). 
+The goal is to better understand adult neuroplasticity and support a more vibrant, connected perceptual experience.
 
-Contact: juliaberman@email.com  
-GitHub: github.com/curiousquantumelephant777
+### 🌀 Currently Exploring
+- DNA-Topological-Resonance: Researching non-coding DNA as a vibrational latticework (“Genomic Music Box”)
+- GDNF as a “firmware flash” for neural brightness and plasma stellation
+
+I'm open to feedback, discussion, and collaboration.
+
+**Contact**: juliaberman@yahoo.com
