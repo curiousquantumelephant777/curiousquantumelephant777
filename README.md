@@ -25,4 +25,4 @@ The goal is to better understand adult neuroplasticity and support a more vibran
 
 I'm open to feedback, discussion, and collaboration.
 
-**Contact**: juliaberman@yahoo.com
+**Contact**: juliamberman@yahoo.com
