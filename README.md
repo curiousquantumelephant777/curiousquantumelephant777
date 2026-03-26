@@ -24,5 +24,3 @@ The goal is to better understand adult neuroplasticity and support a more vibran
 - GDNF as a “firmware flash” for neural brightness and plasma stellation
 
 I'm open to feedback, discussion, and collaboration.
-
-**Contact**: juliamberman@yahoo.com
