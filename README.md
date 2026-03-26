@@ -23,4 +23,4 @@ The goal is to better understand adult neuroplasticity and support a more vibran
 - DNA-Topological-Resonance: Researching non-coding DNA as a vibrational latticework (“Genomic Music Box”)
 - GDNF as a “firmware flash” for neural brightness and plasma stellation
 
-I'm open to feedback, discussion, and collaboration.
+I'm open to feedback, discussion, and collaboration. Excited to continue exploring the universe!
