@@ -1,27 +1,50 @@
 # Julia Berman
 
-## **UCLA B.S. Biology '22**  
-Independent researcher in quantum & systems biology with a neurodiversity-affirming perspective.
 
-### 🧬 Research Focus
-I'm investigating how quantum phenomena may influence biological coherence, plasticity, and neurodevelopment. My work bridges computational modeling, epigenetics, and endogenous signaling pathways.
+**UCLA B.S. Biology '22** | Independent Researcher investigating Neuroplasticity, Psychedelics, Quantum Biology, & Neurotrophic Factors  
 
-### 🧪 **Core Areas:**
-- Quantum modeling of biological coherence using computational simulations (Python)
-- Biophotonic transduction and potential fractal lattice structures in microtubules and DNA
-- GDNF stimulation (plant-based compounds + exercise) for targeted neuronal growth in autism spectrum disorder (ASD)
-- Therapeutic potential of psychedelics in autistic individuals
-- Endogenous empathogen/tryptamine pathways, including my developing **INMT theory** on endogenous tryptamine biosynthesis
-- Epigenetic effects of **GTF2I** gene deletion in Williams syndrome and its contrast with ASD phenotypes
+- Applying to UCLA MCDB Master's Program (Fall 2026)
 
-### 🔬 Approach
-I use computational tools (Python) to explore how reduced external electromagnetic “static” and chemical “wedges” might change phase-locking by altering structural/genetic processes (e.g., phenethylamines or endogenous tryptamines), enabling superior phase-locking and coherence in neural systems, particularly microtubule lattices in the Orch-OR framework.
 
-The goal is to better understand adult neuroplasticity and support a more vibrant, connected perceptual experience.
+### 🧬 About Me
 
-### 🌀 Currently Exploring
-- DNA-Topological-Resonance: Researching non-coding DNA as a vibrational latticework (“Genomic Music Box”) (repository coming soon)
-- GDNF as a “firmware flash” for neural brightness as a mechanism for increasing neural brightness and network arborization/stellation
-- Endogenous Empathogen/Tryptamine "social polar opposite phenotype" theory in ASD and Williams Syndrome (WS)
+I am an independent biological sciences researcher passionate about understanding neuroplasticity, neurotrophic factors (especially GDNF), and how the brain can adapt and repair. My independent research focuses on literature synthesis and basic computational approaches to neurotransmitter and growth factor pathways.
 
-I'm open to feedback, discussion, and collaboration. Excited to continue exploring the universe!
+
+### 🌀 Current Focus
+
+- Exploring the role of GDNF and related pathways in neuroplasticity
+
+- Investigating the intersection of endogenous tryptamine/phenethylamine pathways and neurotrophic signaling
+
+- Building simple tools for computational and literature review analysis (Python)
+
+
+### 📚 Education
+
+- **B.S. in Biology**, University of California, Los Angeles (2022)
+
+
+### 💫 Selected Project
+
+**[Holistic-GDNF-Stimulation-ASD-Theory](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory)**  
+
+Literature-based exploration of GDNF-mediated neuroplasticity, with references to key studies on dopaminergic neuron support and neurotrophic factors.
+
+
+### 🧪 Skills & Tools
+
+- Biological literature review & synthesis
+
+- Python (basic data handling and modeling)
+
+- LaTeX / Markdown for scientific documentation
+
+
+---
+
+
+I'm currently preparing my application for the UCLA MCDB Master's program and welcome any feedback or collaboration opportunities in the areas of neuroplasticity and computational biology.
+
+
+Feel free to reach out! 
