@@ -47,4 +47,4 @@ Literature-based exploration of GDNF-mediated neuroplasticity, with references t
 I'm currently preparing my application for the UCLA MCDB Master's program and welcome any feedback or collaboration opportunities in the areas of neuroplasticity and computational biology.
 
 
-Feel free to reach out! 
+Feel free to reach out! Peace, love, and science :)
