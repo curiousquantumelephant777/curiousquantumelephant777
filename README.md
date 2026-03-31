@@ -1,28 +1,31 @@
-# 🌳 Julia Berman 🐘
+# $\color{indigo}{\text{🌳 Julia Berman 🐘}}$
 
-**UCLA B.S. Biology '22** | Independent Researcher investigating Neuroplasticity, Psychedelics, Quantum Biology, & Neurotrophic Factors  
+> $\color{#d30a7c}{\text{“We are all connected, and the tools of chemistry are merely the keys to the}}$
+> $\color{#d30a7c}{\text{doors of perception that we have forgotten how to open.” — Alexander Shulgin}}$
 
-- Applying to UCLA MCDB Master's Program (Fall 2026)
+**UCLA B.S. Biology '22** | Independent Researcher 
+*Investigating Neuroplasticity, Psychedelics, Quantum Biology, and Neurotrophic Factors*
 
-## 🧬 About Me
+---
+
+- **Applying to:** [UCLA MCDB Master's Program](https://www.mcdb.ucla.edu/) (Fall 2026)
+
+## $\color{mediumpurple}{\text{🧬 About Me}}$
 
 I am an independent biological sciences researcher passionate about understanding neuroplasticity, neurotrophic factors (especially GDNF), and how the brain can adapt and repair. My independent research focuses on literature synthesis and basic computational approaches to neurotransmitter and growth factor pathways.
 
-## 🌀 Current Focus
+## $\color{mediumpurple}{\text{🌀 Current Focus}}$
 
-- Exploring the role of GDNF and related pathways in neuroplasticity
-- Investigating the intersection of endogenous tryptamine/phenethylamine pathways and neurotrophic signaling
-- Building simple tools for computational and literature review analysis (Python)
+- **GDNF Pathways:** Exploring roles in neuroplasticity and dopaminergic support.
+- **Endogenous Signaling:** Investigating tryptamine/phenethylamine and neurotrophic intersections.
+- **Computational Tools:** Building Python-based literature review and meta-analysis scripts.
+- **Featured Research:** [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine, and molecular symmetry.*
 
-## 📚 Education
+## $\color{mediumpurple}{\text{📚 Education}}$
 
-- **B.S. in Biology**, University of California, Los Angeles (2022)
+- **B.S. in Biology**, UCLA, 2022
 
-## 💫 Selected Project
-
-**[Holistic-GDNF-Stimulation-ASD-Theory](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory)** Literature-based exploration of GDNF-mediated neuroplasticity, with references to key studies on dopaminergic neuron support and neurotrophic factors.
-
-## 🧪 Skills & Tools
+## $\color{mediumpurple}{\text{🧪 Skills and Tools}}$
 
 - Biological literature review & synthesis
 - Python (basic data handling and modeling)
