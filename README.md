@@ -1,4 +1,4 @@
-# Julia Berman 🐘
+# 🌳 Julia Berman 🐘
 
 **UCLA B.S. Biology '22** | Independent Researcher investigating Neuroplasticity, Psychedelics, Quantum Biology, & Neurotrophic Factors  
 
