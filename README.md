@@ -6,8 +6,6 @@
 **UCLA B.S. Biology '22** | Independent Researcher 
 *Investigating Neuroplasticity, Psychedelics, Quantum Biology, and Neurotrophic Factors*
 
----
-
 - **Applying to:** [UCLA MCDB Master's Program](https://www.mcdb.ucla.edu/) (Fall 2026)
 
 ## $\color{mediumpurple}{\text{🧬 About Me}}$
