@@ -4,7 +4,7 @@
 > $\color{#d30a7c}{\text{doors of perception that we have forgotten how to open.” — Alexander Shulgin}}$
 
 **UCLA B.S. Biology '22** | Independent Researcher 
-*Investigating Neuroplasticity, Psychedelics, Quantum Biology, and Neurotrophic Factors*
+*Investigating Neuroplasticity, Epigenetic Modulation, Quantum Biology, and Neurotrophic Factors*
 
 - **Applying to:** UCLA MCDB Master's Program (Fall 2026)
 
