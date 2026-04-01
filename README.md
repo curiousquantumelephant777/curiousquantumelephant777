@@ -1,7 +1,7 @@
 # $\color{indigo}{\text{🌳 Julia Berman 🐘}}$
 
 > $\color{#d30a7c}{\text{“We are all connected, and the tools of chemistry are merely the keys to the}}$
-> $\color{#d30a7c}{\text{doors of perception that we have forgotten how to open.” — Alexander Shulgin}}$
+> $\color{#d30a7c}{\text{doors of perception that we have forgotten how to open.” - Alexander Shulgin}}$
 
 **UCLA B.S. Biology '22** | Independent Researcher 
 *Investigating Neuroplasticity, Epigenetic Modulation, Quantum Biology, and Neurotrophic Factors*
