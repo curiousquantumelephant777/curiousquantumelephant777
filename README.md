@@ -14,10 +14,14 @@ I am an independent biological sciences researcher passionate about understandin
 
 ## $\color{mediumpurple}{\text{🌀 Current Focus}}$
 
-- **GDNF Pathways:** Exploring roles in neuroplasticity and dopaminergic support.
-- **Endogenous Signaling:** Investigating tryptamine/phenethylamine and neurotrophic intersections.
-- **Computational Tools:** Building Python-based literature review and meta-analysis scripts.
-- **Featured Research:** [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine, and molecular symmetry.*
+* **Social Polarity Theory:** Analyzing the *GTF2I* gene and oxytocin-vasopressin pathways as a biological "symmetry" between Williams Syndrome and ASD.
+* **The Endogenous Shunt Hypothesis:** Modeling overactive **INMT** pathways and **TAAR1** anomalies as a metabolic basis for altered perception in neurodivergence.
+* **Quantum Biology & Epigenetics:**
+    * **DNA-as-Sensor:** Investigating piezoelectricity in chromatin and microtubule-mediated quantum coherence.
+    * **Epigenetic Remodeling:** Examining MDMA-assisted therapy as a catalyst for "opening" critical periods via BDNF and epigenetic modulation.
+* **Topological Neuroscience:** Exploring Topological Data Analysis (TDA) and Persistent Homology to map transitions in high-dimensional neural manifolds during altered states of consciousness and neurodevelopmental shifts.
+* **Featured Research:** [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine, and molecular symmetry.*
+    *  **Computational Skills:** Developed a recursive Python model to visualize and quantify theorized dendritic re-arborization post GDNF-stimulation.
 
 ## $\color{mediumpurple}{\text{📚 Education}}$
 
