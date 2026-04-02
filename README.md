@@ -20,7 +20,9 @@ I am an independent biological sciences researcher passionate about understandin
     * **DNA-as-Sensor:** Investigating piezoelectricity in chromatin and microtubule-mediated quantum coherence.
     * **Epigenetic Remodeling:** Examining MDMA-assisted therapy as a catalyst for "opening" critical periods via BDNF and epigenetic modulation.
 * **Topological Neuroscience:** Exploring Topological Data Analysis (TDA) and Persistent Homology to map transitions in high-dimensional neural manifolds during altered states of consciousness and neurodevelopmental shifts.
-* **Featured Research:** [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine, and molecular symmetry.*
+
+## ⭐️ $\color{mediumpurple}{\text{ Featured Research}}$
+* [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine, and molecular symmetry.*
     *  **Computational Skills:** Developed a recursive Python model to visualize and quantify theorized dendritic re-arborization post GDNF-stimulation.
 * **Endogenous-Psychedelic-States-ASD-WS-Theory**: Investigating the neuropharmacological overlap between Williams Syndrome and ASD. This framework explores the "Endogenous Empathogen" hypothesis, theorizing how WS may be characterized by high endogenous phenethylamine sensitivity, whereas ASD is modulated by elevated endogeous tryptamine activity.
 * **Holistic-Benign-Thyroid-Remodeling:** A 14-month longitudinal study characterizing the $Tg/T\_{reg}$ Paradox. This research utilizes TI-RADS scoring and paracrine signaling models to document the transition of high-risk thyroid nodules (TR5 to TR4) via immune-mediated tissue remodeling.
