@@ -26,7 +26,7 @@ I am an independent biological sciences researcher passionate about understandin
 * [**Endogenous-Psychedelic-States-ASD-WS-Theory**](https://github.com/curiousquantumelephant777/Endogenous-Psychedelic-States-ASD-WS-Theory/blob/main/The-Endogenous-Empathogen-Hypothesis.md): Investigating the neuropharmacological overlap between Williams Syndrome and ASD. This framework explores the "Endogenous Empathogen" hypothesis, theorizing how WS may be characterized by high endogenous phenethylamine sensitivity, whereas ASD is modulated by elevated endogeous tryptamine activity.
 * [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine, and molecular symmetry.*
     *  **Computational Skills:** Developed a recursive Python model to visualize and quantify theorized dendritic re-arborization post GDNF-stimulation.
-* **Holistic-Benign-Thyroid-Remodeling:** A 14-month longitudinal study characterizing the $Tg/T\_{reg}$ Paradox. This research utilizes TI-RADS scoring and paracrine signaling models to document the transition of high-risk thyroid nodules (TR5 to TR4) via immune-mediated tissue remodeling.
+* **systems-biology-thyroid-remodeling:** A 14-month longitudinal study characterizing the $Tg/T\_{reg}$ Paradox. This research utilizes TI-RADS scoring and paracrine signaling models to document the transition of high-risk thyroid nodules (TR5 to TR4) via immune-mediated tissue remodeling.
 
 ## $\color{mediumpurple}{\text{📚 Education}}$
 
