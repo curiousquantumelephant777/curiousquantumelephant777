@@ -10,11 +10,11 @@
 
 ## $\color{mediumpurple}{\text{🧬 About Me}}$
 
-I am an independent biological sciences researcher passionate about understanding neuroplasticity, neurotrophic factors (especially GDNF), and how the brain can adapt and repair. My independent research focuses on literature synthesis and basic computational approaches to neurotransmitter and growth factor pathways.
+Inspired by my lived experience with autism and a fascinating deep dive into the social polar opposte (Williams Syndrome), I became interested in decoding the biological and quantum chemical frameworks that underlie our dynamic reality. I am an independent biological sciences researcher passionate about understanding neuroplasticity, neurotrophic factors (especially GDNF), and how the brain can adapt and repair. My independent research focuses on literature synthesis and basic computational approaches to neurotransmitter and growth factor pathways.
 
 ## $\color{mediumpurple}{\text{🌀 Current Focus}}$
 
-* **Social Polarity Theory:** Analyzing the *GTF2I* gene and oxytocin-vasopressin pathways as a biological "symmetry" between Williams Syndrome and ASD.
+* **Social Polarity Theory:** Analyzing the *GTF2I* gene and oxytocin-vasopressin pathways as a biological "divergence" between Williams Syndrome and ASD.
 * **The Endogenous Shunt Hypothesis:** Modeling overactive **INMT** pathways and **TAAR1** anomalies as a metabolic basis for altered perception in neurodivergence.
 * **Quantum Biology & Epigenetics:**
     * **DNA/Microtubule Topology and Biophysics:** Investigating piezoelectricity in chromatin and microtubule-mediated coherent states.
