@@ -18,7 +18,7 @@ I am an independent biological sciences researcher passionate about understandin
 * **The Endogenous Shunt Hypothesis:** Modeling overactive **INMT** pathways and **TAAR1** anomalies as a metabolic basis for altered perception in neurodivergence.
 * **Quantum Biology & Epigenetics:**
     * **DNA/Microtubule Topology and Biophysics:** Investigating piezoelectricity in chromatin and microtubule-mediated coherent states.
-    * **Quantum Chemistry in Biological Systems** Synthesizing quantum biology, MESP molecular topology, and EZ water dynamics into a unified 'Endogenous Empathogen' theory to decode the biophysics of empathy and social resonance.
+    * **Quantum Chemistry in Biological Systems:** Synthesizing quantum biology, MESP molecular topology, and EZ water dynamics into a unified 'Endogenous Empathogen' theory to decode the biophysics of empathy and social resonance.
     * **Epigenetic Remodeling:** Examining MDMA-assisted therapy as a catalyst for "opening" critical periods via BDNF and epigenetic modulation.
 * **Topological Neuroscience:** Exploring Topological Data Analysis (TDA) and Persistent Homology to map transitions in high-dimensional neural manifolds during altered states of consciousness and neurodevelopmental shifts.
 
