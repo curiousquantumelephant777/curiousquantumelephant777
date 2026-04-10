@@ -17,7 +17,8 @@ I am an independent biological sciences researcher passionate about understandin
 * **Social Polarity Theory:** Analyzing the *GTF2I* gene and oxytocin-vasopressin pathways as a biological "symmetry" between Williams Syndrome and ASD.
 * **The Endogenous Shunt Hypothesis:** Modeling overactive **INMT** pathways and **TAAR1** anomalies as a metabolic basis for altered perception in neurodivergence.
 * **Quantum Biology & Epigenetics:**
-    * **DNA-as-Sensor:** Investigating piezoelectricity in chromatin and microtubule-mediated quantum coherence.
+    * **DNA/Microtubule Topology and Biophysics:** Investigating piezoelectricity in chromatin and microtubule-mediated coherent states.
+    * **Quantum Chemistry in Biological Systems** Synthesizing quantum biology, MESP molecular topology, and EZ water dynamics into a unified 'Endogenous Empathogen' theory to decode the biophysics of empathy and social resonance.
     * **Epigenetic Remodeling:** Examining MDMA-assisted therapy as a catalyst for "opening" critical periods via BDNF and epigenetic modulation.
 * **Topological Neuroscience:** Exploring Topological Data Analysis (TDA) and Persistent Homology to map transitions in high-dimensional neural manifolds during altered states of consciousness and neurodevelopmental shifts.
 
