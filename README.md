@@ -7,6 +7,7 @@
 *Investigating Neuroplasticity, Epigenetic Modulation, Quantum Biology, and Neurotrophic Factors*
 
 - **Applied to:** UCLA MCDB Master's Program (Fall 2026)
+- **Important Note:** I recently received some bad news that my thyroid nodules are indeterminate (Bethesda III), meaning they may be cancerous. Due to this, I am taking a few weeks to pause my research and focus on my health. I will use the data I find in this health journey to support my systems-biology-thyroid-remodeling repo in the future.
 
 ## $\color{mediumpurple}{\text{🧬 About Me}}$
 
@@ -29,7 +30,7 @@ Inspired by my lived experience with autism and a fascinating deep dive into the
       * It is hypothesized that this flower-shaped hexagonal manifold projection seen in phenethylamines intersects directly with the binding residues in the TAAR1 binding pocket which may affect specific points along the *GTF2I* locus (which notably has 6 repeating motifs in the TFII protein it encodes). This potentially activates Z-DNA (which mirrors this motif along its helical axis) to induce epigenetic changes. Different phenethylamine substitutions are proposed to create different vibrational modes, which may be analogous to gravitational waves.
 * [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine, and molecular symmetry.*
     *  **Computational Skills:** Developed a recursive Python model to visualize and quantify theorized dendritic re-arborization post GDNF-stimulation.
-* **systems-biology-thyroid-remodeling:** A 14-month longitudinal study characterizing the $Tg/T\_{reg}$ Paradox. This research utilizes TI-RADS scoring and paracrine signaling hypotheses to document the transition of high-risk thyroid nodules (TR5 to TR4) via immune-mediated tissue remodeling.
+* **systems-biology-thyroid-remodeling:** A 14-month longitudinal study characterizing the $Tg/T\_{reg}$ Paradox. This research utilizes TI-RADS scoring and paracrine signaling hypotheses to document the transition of high-risk thyroid nodules (TR5 to TR4) via immune-mediated tissue remodeling. 
 
 ## $\color{mediumpurple}{\text{📚 Education}}$
 
