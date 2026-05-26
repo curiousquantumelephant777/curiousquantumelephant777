@@ -25,10 +25,12 @@ Inspired by my lived experience with autism and a fascinating deep dive into the
 * **Topological Neuroscience:** Exploring Topological Data Analysis (TDA) and Persistent Homology to map transitions in high-dimensional neural manifolds during altered states of consciousness and neurodevelopmental shifts.
 
 ## ⭐️ $\color{mediumpurple}{\text{ Featured Research}}$
-* [**Endogenous-Psychedelic-States-ASD-WS-Theory**](https://github.com/curiousquantumelephant777/Endogenous-Psychedelic-States-ASD-WS-Theory/blob/main/The-Endogenous-Empathogen-Hypothesis.md): Investigating the neuropharmacological overlap between Williams Syndrome and ASD. This framework explores the '[Endogenous Empathogen Hypothesis](https://github.com/curiousquantumelephant777/Endogenous-Psychedelic-States-ASD-WS-Theory),' analyzing how WS may be characterized by high endogenous phenethylamine sensitivity, whereas ASD is modulated by elevated endogeous tryptamine activity. This project also investigates how specific functional group substitutions on the phenethylamine core alter the gradient/curl/Laplacian topology of the electron density, effectively 'tuning' the molecule’s vibrational eigenfrequencies to interact with endogenous/exogenous empathogenic lattices.
+* [**Endogenous-Psychedelic-States-ASD-WS-Theory**](https://github.com/curiousquantumelephant777/Endogenous-Psychedelic-States-ASD-WS-Theory/blob/main/The-Endogenous-Empathogen-Hypothesis.md): Investigating the neuropharmacological overlap between Williams Syndrome and ASD. This framework explores the '[Endogenous Empathogen Hypothesis](https://github.com/curiousquantumelephant777/Endogenous-Psychedelic-States-ASD-WS-Theory),' analyzing how WS may be characterized by high endogenous phenethylamine sensitivity, whereas ASD is modulated by elevated endogeous tryptamine activity.
   *  **Computational Skills:**
-      * Developed a Python molecular map that plots the gradient as a vector field of the electron density using SMILES strings, and a subsequent map that plots the magnitude of the curl corresponding to electron density. Also mapped the helical axis of the gradient/curl of substituted phenethylamines to a hypothesized polar coordinate equation.
-      * It is hypothesized that this flower-shaped hexagonal manifold projection seen in phenethylamines intersects directly with the binding residues in the TAAR1 binding pocket which may affect specific points along the *GTF2I* locus (which notably has 6 repeating motifs in the TFII protein it encodes). This potentially activates Z-DNA (which mirrors this motif along its helical axis) to induce epigenetic changes. Different phenethylamine substitutions are proposed to create different vibrational modes, which may be analogous to gravitational waves.
+      * Developing automated Bio.Entrez pipelines to systematically mine and cross-reference NCBI literature databases (PubMed/PMC) for targeted neurodevelopmental and               genetic frameworks.
+      * Engineered a computational molecular mapping tool in Python that processes SMILES strings to calculate and plot electron density gradients as vector fields.
+      * Modeled local rotational vector dynamics by mapping the magnitude of the curl of electron density to visualize molecular field perturbations.   
+      * Developing a Python molecular map that plots the gradient as a vector field of the electron density using SMILES strings, and a subsequent map that plots the                 magnitude of the curl corresponding to electron density. Also mapped the helical axis of the gradient/curl of substituted phenethylamines to a hypothesized polar            coordinate equation.
 * [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine, and molecular symmetry.*
     *  **Computational Skills:** Developed a recursive Python model to visualize and quantify theorized dendritic re-arborization post GDNF-stimulation.
 * **[systems-biology-thyroid-remodeling](https://github.com/curiousquantumelephant777/systems-biology-thyroid-remodeling):** A 14-month longitudinal study characterizing the $Tg/T\_{reg}$ Paradox. This research utilizes TI-RADS scoring and paracrine signaling hypotheses to document the transition of high-risk thyroid nodules (TR5 to TR4) via immune-mediated tissue remodeling. 
@@ -37,10 +39,10 @@ Inspired by my lived experience with autism and a fascinating deep dive into the
 
 - **B.S. in Biology**, UCLA, 2022
 
-## $\color{mediumpurple}{\text{🧪 Skills and Tools}}$
+## $\color{mediumpurple}{\text{🧪 Skills and Tools (Currently Refining)}}$
 
 - Biological literature review & synthesis
-- Python/RDKit/Matplotlib (basic data handling and modeling)
+- Python/RDKit/Matplotlib/Entrez (basic data handling and modeling)
 - LaTeX / Markdown for scientific documentation
 
 ## $\color{mediumpurple}{\text{💫Future Directions}}$
