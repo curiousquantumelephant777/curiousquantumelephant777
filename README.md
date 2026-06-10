@@ -12,7 +12,7 @@
 
 ## $\color{mediumpurple}{\text{🧬 About Me}}$
 
-Inspired by my lived experience with autism and a fascinating deep dive into the social polar opposte (Williams Syndrome), I became interested in decoding the biological and nonlinear quantum biochemical frameworks that underlie our dynamic reality. I am an independent biological sciences and topology researcher passionate about understanding neuroplasticity, neurotrophic factors (especially GDNF), non-linear topological dynamics in biological systems, and how the brain can adapt and repair. My independent research focuses on literature synthesis and basic computational approaches to neurotransmitter and growth factor pathways.
+Inspired by my lived experience with autism and a fascinating deep dive into the social polar opposite (Williams Syndrome), I became interested in decoding the biological and nonlinear quantum biochemical frameworks that underlie our dynamic reality. I am an independent biological sciences and topology researcher passionate about understanding neuroplasticity, neurotrophic factors (especially GDNF), non-linear topological dynamics in biological systems, and how the brain can adapt and repair. My independent research focuses on literature synthesis and basic computational approaches to neurotransmitter and growth factor pathways.
 
 ## $\color{mediumpurple}{\text{🌀 Current Focus}}$
 
@@ -43,13 +43,14 @@ Inspired by my lived experience with autism and a fascinating deep dive into the
 
 - Biological literature review & synthesis
 - Python/RDKit/Matplotlib/Entrez (basic data handling and modeling)
-- LaTeX / Markdown for scientific documentation
+- LaTeX/Markdown for scientific documentation
+- Learning bioinformatics and improving my biopython skills
 
 ## $\color{mediumpurple}{\text{💫Future Directions}}$
 
-- Analyzing direct models of TAAR1 binding pocket topological anomalies (quantum coherence) in models of autism, Williams Syndrome and comparing them to neurotypicals using Quantum Toolbox in Python (QuTip) for high-level quantum simulations.
-- Using genome sequencing to quantify the evolutionary domestication hypothesis involving GTF2I and amylase genes (wolves-to-dogs/domesticated humans and Williams Syndrome)
-- Phylogenomic modeling of the self-domestication syndrome: Comparing the dendritic branching patterns, perineuronal net tension and flux, GTF2I anomalies, and TAAR-1 alterations in large-scale studies of multiple ASD/WS/neurotypical models to the Geschwind Lab's autism genomic and epigenomic data.
+- Analyzing direct models of *TAAR1( binding pocket topological anomalies in models of autism, Williams Syndrome and comparing them to neurotypicals using Quantum Toolbox in Python (QuTip) for high-level quantum biochemical simulations.
+- Using genome sequencing to quantify the evolutionary domestication hypothesis involving *GTF2I* and amylase genes (wolves-to-dogs/domesticated humans and Williams Syndrome)
+- Phylogenomic modeling of the self-domestication syndrome: Comparing the dendritic branching patterns, perineuronal net tension and flux, GTF2I anomalies, and TAAR-1 alterations in large-scale studies of multiple ASD/WS/neurotypical models to the Geschwind Lab's autism genomic and epigenomic data, and analyzing the epigenetic landscape of evolutionary domestication, WS, and ASD using Dr. Matteo Pellegrini's computational tools.
 - Developing a machine learning model that predicts how certain molecules interact topologically with receptors, DNA, and *GTF2I* sites (e.g., how different phenethylamine substitutions might interact with *TAAR1*/oxytocin signaling expression and induce phonon coupling and non-linear recursive tesseract helical fluctuations that reverberate across these domains).
 - Modeling isoquinolone-induced signal stabilization: Probing the transition of recursive tesseract fluctuations into coherent soliton waves.
 Isoquinilone groups (e.g., in berberine, ibogaine and pharmaceutical analogs) are thought to induce a phase transition via *OXTR* and *TAAR1* stacking interactions, converting recursive tesseract fluctuations into stable soliton waves that propagate to the *GTF2I* and *OXTR* loci via DNA intercalation.
