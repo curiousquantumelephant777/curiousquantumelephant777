@@ -8,7 +8,7 @@
 
 - **Applied to:** UCLA MCDB Master's Program (Fall 2026)
 - **Important Note:** I recently received some bad news that my thyroid nodules are indeterminate (Bethesda III), meaning they may be cancerous. Due to this, I am taking a few weeks to pause my research and focus on my health.
-- **Health Update:** I have resumed my research, just at a slower pace, and have decided to use the data I found to generate a comprehensive systems-level hypothesis to support my systems-biology-thyroid-remodeling repo which you can read about [here](https://github.com/curiousquantumelephant777/systems-biology-thyroid-remodeling/blob/main/Comprehensive%20Systems%20Biology%20Analysis%20for%20Pathology%20Requisition.pdf).
+- **Health Update:** I will be pausing my research indefinitely as my nodules are likely cancerous and I am beyond devastated and not doing well, and have decided to use the data I found to generate a comprehensive systems-level hypothesis to support my systems-biology-thyroid-remodeling repo which you can read about [here](https://github.com/curiousquantumelephant777/systems-biology-thyroid-remodeling/blob/main/Comprehensive%20Systems%20Biology%20Analysis%20for%20Pathology%20Requisition.pdf).
 
 ## $\color{mediumpurple}{\text{🧬 About Me}}$
 
