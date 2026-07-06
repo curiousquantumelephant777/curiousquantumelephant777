@@ -47,7 +47,7 @@ Inspired by my lived experience with autism and a fascinating deep dive into the
 
 ## $\color{mediumpurple}{\text{💫Future Directions}}$
 
-- Analyzing direct models of *TAAR1( binding pocket topological anomalies in models of autism, Williams Syndrome and comparing them to neurotypicals using Quantum Toolbox in Python (QuTip) for high-level quantum biochemical simulations.
+- Analyzing direct models of *TAAR1* (binding pocket topological anomalies in models of autism, Williams Syndrome and comparing them to neurotypicals using Quantum Toolbox in Python (QuTip) for high-level quantum biochemical simulations.
 - Using genome sequencing to quantify the evolutionary domestication hypothesis involving *GTF2I* and amylase genes (wolves-to-dogs/domesticated humans and Williams Syndrome)
 - Phylogenomic modeling of the self-domestication syndrome: Comparing the dendritic branching patterns, perineuronal net tension and flux, GTF2I anomalies, and TAAR-1 alterations in large-scale studies of multiple ASD/WS/neurotypical models to the Geschwind Lab's autism genomic and epigenomic data, and analyzing the epigenetic landscape of evolutionary domestication, WS, and ASD using Dr. Matteo Pellegrini's computational tools.
 - Developing a machine learning model that predicts how certain molecules interact topologically with receptors, DNA, and *GTF2I* sites (e.g., how different phenethylamine substitutions might interact with *TAAR1*/oxytocin signaling expression and induce phonon coupling and non-linear recursive tesseract helical fluctuations that reverberate across these domains).
