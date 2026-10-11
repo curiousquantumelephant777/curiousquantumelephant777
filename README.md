@@ -14,9 +14,9 @@ Inspired by my lived experience with autism and a fascinating deep dive into the
 
 * **Social Polarity Theory:** Analyzing the *GTF2I*/*OXTR* genes and oxytocin-vasopressin pathways in Williams Syndrome and ASD.
 * **The Endogenous Shunt Hypothesis:** Modeling overactive *INMT* pathways and *TAAR1* anomalies as a metabolic basis for altered perception in neurodivergence.
-* **Metabolic & Receptor Signaling:** Investigating endogenous trace amine-associated receptors (TAAR1*), metabolic shunts (*INMT*), and subclinical functional deficiencies as drivers of altered neuropharmacological states.
+* **Metabolic & Receptor Signaling:** Investigating endogenous trace amine-associated receptors (*TAAR1*), metabolic shunts (*INMT*), and subclinical functional deficiencies as drivers of altered neuropharmacological states.
 * **Systems Biology & Functional Medicine:**
-    Genomic & PGX Insights: Utilizing targeted genomic analysis (MTHFR*, *COMT*, BDNF*) cross-referenced with pharmacogenomic clinical databases to understand neuropsychiatric phenotypes.
+    Genomic & PGX Insights: Utilizing targeted genomic analysis (*MTHFR*, *COMT*, *BDNF*) cross-referenced with pharmacogenomic clinical databases to understand neuropsychiatric phenotypes.
     * **Gut-Brain Axis & Epigenetics:** Exploring how targeted microbiome modulation, microbial indoles, and environmental changes impact systemic health and neurodevelopmental pathways.
     * **Systems Thyroid & Tissue Modeling:** Tracking nodule transitions via immune-mediated tissue remodeling and paracrine signaling frameworks.
 * **Structural Neuroplasticity & Growth Factors:** Examining molecular pathways of glial cell line-derived neurotrophic factor (GDNF), its intersection with indole/iboga motifs, and cancer biology parallels in cellular remodeling.
