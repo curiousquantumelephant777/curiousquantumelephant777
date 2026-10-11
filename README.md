@@ -3,7 +3,7 @@
 > $\color{#d30a7c}{\text{“We are all connected, and the tools of chemistry are merely the keys to the}}$
 > $\color{#d30a7c}{\text{doors of perception that we have forgotten how to open.” - Alexander Shulgin}}$
 
-**UCLA B.S. Biology '22** | Independent Researcher 
+**UCLA B.S. Biology '22** | Independent Researcher <br>
 *Interests: Neuroplasticity, Systems Biology, Functional Genomics, and Computational Neurobiology*
 
 ## $\color{mediumpurple}{\text{🧬 About Me}}$
@@ -18,7 +18,7 @@ Inspired by my lived experience with autism and a fascinating deep dive into the
 * **Systems Biology & Functional Medicine:**
     Genomic & PGX Insights: Utilizing targeted genomic analysis (MTHFR*, *COMT*, BDNF*) cross-referenced with pharmacogenomic clinical databases to understand neuropsychiatric phenotypes.
     * **Gut-Brain Axis & Epigenetics:** Exploring how targeted microbiome modulation, microbial indoles, and environmental changes impact systemic health and neurodevelopmental pathways.
-    * **Systems Thyroid & Tissue Modeling:** Tracking high-risk nodule transitions via immune-mediated tissue remodeling and paracrine signaling frameworks.
+    * **Systems Thyroid & Tissue Modeling:** Tracking nodule transitions via immune-mediated tissue remodeling and paracrine signaling frameworks.
 * **Structural Neuroplasticity & Growth Factors:** Examining molecular pathways of glial cell line-derived neurotrophic factor (GDNF), its intersection with indole/iboga motifs, and cancer biology parallels in cellular remodeling.
 * **Topological & Computational Neuroscience:** Applying computational geometry and data analysis pipelines to model biophysical states and molecular topologies.
 
@@ -28,7 +28,7 @@ Inspired by my lived experience with autism and a fascinating deep dive into the
   *  **Computational Skills:**
       * Developing automated Bio.Entrez pipelines to systematically mine and cross-reference NCBI literature databases (PubMed/PMC) for targeted neurodevelopmental and               genetic frameworks.
       * Engineered a computational molecular mapping tool in Python that processes SMILES strings to calculate and plot electron density gradients as vector fields.
-* [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine/indole motifs, and molecular symmetry.* Features custom recursive Python models visualizing theorized dendritic re-arborization and exploring structural links to cancer biology and gut motility.*
+* [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine/indole motifs, and molecular symmetry.* Features custom recursive Python models visualizing theorized dendritic re-arborization and explorations of structural links to cancer biology and gut motility.*
     *  **Computational Skills:** Developed a recursive Python model to visualize and quantify theorized dendritic re-arborization post GDNF-stimulation.
 * **[systems-biology-functional medicine](https://github.com/curiousquantumelephant777/systems-biology-functional-medicine):** Expanded systems-level repository integrating longitudinal thyroid remodeling with broader functional medicine insights (mapping subclinical nutritional deficiencies, oral-systemic pathology connections, and gut-brain axis/epigenetic interactions).
 * **[bioinformatics-adventure](https://github.com/curiousquantumelephant777/bioinformatics-adventure):** A dedicated sandbox repository documenting my self-directed training in bioinformatics workflows, sequence analysis, and structural visualization using **PyMOL** and specialized Biopython scripts.
