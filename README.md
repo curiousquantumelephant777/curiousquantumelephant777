@@ -4,33 +4,39 @@
 > $\color{#d30a7c}{\text{doors of perception that we have forgotten how to open.” - Alexander Shulgin}}$
 
 **UCLA B.S. Biology '22** | Independent Researcher 
-*Investigating Neuroplasticity, Epigenetic Modulation, Quantum Biology, and Neurotrophic Factors*
-Can
+*Interests: Neuroplasticity, Systems Biology, Functional Genomics, and Computational Neurobiology*
+
 ## $\color{mediumpurple}{\text{🧬 About Me}}$
 
-Inspired by my lived experience with autism and a fascinating deep dive into the social polar opposite (Williams Syndrome), I became interested in decoding the biological and nonlinear quantum biochemical frameworks that underlie our dynamic reality. I am an independent biological sciences and topology researcher passionate about understanding neuroplasticity, neurotrophic factors (especially GDNF), non-linear topological dynamics in biological systems, and how the brain can adapt and repair. My independent research focuses on literature synthesis and basic computational approaches to neurotransmitter and growth factor pathways.
+Inspired by my lived experience with autism and a fascinating deep dive into the social polar opposite (Williams Syndrome), I became interested in decoding the biological and nonlinear quantum biochemical frameworks that underlie our dynamic reality. I am an independent biological sciences and topology researcher passionate about understanding neuroplasticity, neurotrophic factors (especially GDNF), non-linear topological dynamics in biological systems, and how the brain can adapt and repair. My independent research focuses on computational modeling, functional genomics synthesis, and structural bioinformatics to study structural neuroplasticity, neurotrophic factors (particularly GDNF), and systems-level biology.
 
 ## $\color{mediumpurple}{\text{🌀 Current Focus}}$
 
-* **Social Polarity Theory:** Analyzing the *GTF2I*/*OXTR* genes and oxytocin-vasopressin pathways as a biological "divergence" between Williams Syndrome and ASD.
+* **Social Polarity Theory:** Analyzing the *GTF2I*/*OXTR* genes and oxytocin-vasopressin pathways in Williams Syndrome and ASD.
 * **The Endogenous Shunt Hypothesis:** Modeling overactive *INMT* pathways and *TAAR1* anomalies as a metabolic basis for altered perception in neurodivergence.
-* **Quantum Biology & Epigenetics:**
-    * **DNA/Microtubule Topology and Biophysics:** Investigating piezoelectricity in chromatin and microtubule-mediated phase changes in empathogenic states compared to neurotypical baseline. Also curious how these phase changes differ with the onset of adolescence and adulthood.
-    * **Quantum Chemistry in Biological Systems:** Synthesizing quantum biology, MESP molecular topology, and EZ water dynamics (speculative) into a unified theory to decode the biophysics of empathy and social resonance.
-    * **Epigenetic Remodeling:** Examining MDMA- and 2-CB-assisted therapy as a catalyst for "opening" critical social developmental periods via *BDNF* and epigenetic modulation.
-* **Topological Neuroscience:** Exploring Topological Data Analysis (TDA) and Persistent Homology to map transitions in high-dimensional neural manifolds during altered states of consciousness and neurodevelopmental shifts.
+* **Metabolic & Receptor Signaling:** Investigating endogenous trace amine-associated receptors (TAAR1*), metabolic shunts (*INMT*), and subclinical functional deficiencies as drivers of altered neuropharmacological states.
+* **Systems Biology & Functional Medicine:**
+    Genomic & PGX Insights: Utilizing targeted genomic analysis (MTHFR*, *COMT*, BDNF*) cross-referenced with pharmacogenomic clinical databases to understand neuropsychiatric phenotypes.
+    * **Gut-Brain Axis & Epigenetics:** Exploring how targeted microbiome modulation, microbial indoles, and environmental changes impact systemic health and neurodevelopmental pathways.
+    * **Systems Thyroid & Tissue Modeling:** Tracking high-risk nodule transitions via immune-mediated tissue remodeling and paracrine signaling frameworks.
+* **Structural Neuroplasticity & Growth Factors:** Examining molecular pathways of glial cell line-derived neurotrophic factor (GDNF), its intersection with indole/iboga motifs, and cancer biology parallels in cellular remodeling.
+* **Topological & Computational Neuroscience:** Applying computational geometry and data analysis pipelines to model biophysical states and molecular topologies.
+
 
 ## ⭐️ $\color{mediumpurple}{\text{ Featured Research}}$
-* [**Endogenous-Psychedelic-States-ASD-WS-Theory**](https://github.com/curiousquantumelephant777/Endogenous-Psychedelic-States-ASD-WS-Theory/blob/main/The-Endogenous-Empathogen-Hypothesis.md): Investigating the neuropharmacological overlap between Williams Syndrome and ASD. This framework explores the '[Endogenous Empathogen Hypothesis](https://github.com/curiousquantumelephant777/Endogenous-Psychedelic-States-ASD-WS-Theory),' analyzing how WS may be characterized by high endogenous phenethylamine sensitivity, whereas ASD is modulated by elevated endogeous tryptamine activity.
+* [**Endogenous-Psychedelic-States-ASD-WS-Theory**](https://github.com/curiousquantumelephant777/Endogenous-Psychedelic-States-ASD-WS-Theory/blob/main/The-Endogenous-Empathogen-Hypothesis.md): Investigating the neuropharmacological overlap between Williams Syndrome and ASD. This framework explores how WS may be characterized by high endogenous phenethylamine sensitivity, whereas ASD is modulated by elevated endogenous tryptamine activity.
   *  **Computational Skills:**
       * Developing automated Bio.Entrez pipelines to systematically mine and cross-reference NCBI literature databases (PubMed/PMC) for targeted neurodevelopmental and               genetic frameworks.
       * Engineered a computational molecular mapping tool in Python that processes SMILES strings to calculate and plot electron density gradients as vector fields.
-      * Modeled local rotational vector dynamics by mapping the magnitude of the curl of electron density to visualize molecular field perturbations.   
-      * Developing a Python molecular map that plots the gradient as a vector field of the electron density using SMILES strings, and a subsequent map that plots the                 magnitude of the curl corresponding to electron density. Also mapped the helical axis of the gradient/curl of substituted phenethylamines to a hypothesized polar            coordinate equation.
-* [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine, and molecular symmetry.*
+* [**Holistic-GDNF-Stimulation-ASD-Theory**](https://github.com/curiousquantumelephant777/Holistic-GDNF-Stimulation-ASD-Theory) — *A deep dive into GDNF-mediated neuroplasticity, ibogaine/indole motifs, and molecular symmetry.* Features custom recursive Python models visualizing theorized dendritic re-arborization and exploring structural links to cancer biology and gut motility.*
     *  **Computational Skills:** Developed a recursive Python model to visualize and quantify theorized dendritic re-arborization post GDNF-stimulation.
-* **[systems-biology-thyroid-remodeling](https://github.com/curiousquantumelephant777/systems-biology-thyroid-remodeling):** A 14-month longitudinal study characterizing the $Tg/T\_{reg}$ Paradox. This research utilizes TI-RADS scoring and paracrine signaling hypotheses to document the transition of high-risk thyroid nodules (TR5 to TR4) via immune-mediated tissue remodeling. 
-
+* **[systems-biology-functional medicine](https://github.com/curiousquantumelephant777/systems-biology-functional-medicine):** Expanded systems-level repository integrating longitudinal thyroid remodeling with broader functional medicine insights (mapping subclinical nutritional deficiencies, oral-systemic pathology connections, and gut-brain axis/epigenetic interactions).
+* **[bioinformatics-adventure](https://github.com/curiousquantumelephant777/bioinformatics-adventure):** A dedicated sandbox repository documenting my self-directed training in bioinformatics workflows, sequence analysis, and structural visualization using **PyMOL** and specialized Biopython scripts.
+ *  **Computational Skills:**
+      * Developed a script to visualize the B-factor of a protein using its PDB code.  
+      * Developing scripts to analyze cross-species conservation for genes implicated in neurodivergence.
+    
+        
 ## $\color{mediumpurple}{\text{📚 Education}}$
 
 - **B.S. in Biology**, UCLA, 2022
@@ -38,18 +44,15 @@ Inspired by my lived experience with autism and a fascinating deep dive into the
 ## $\color{mediumpurple}{\text{🧪 Skills and Tools (Currently Refining)}}$
 
 - Biological literature review & synthesis
-- Python/RDKit/Matplotlib/Entrez (basic data handling and modeling)
-- LaTeX/Markdown for scientific documentation
+- Python/RDKit/Matplotlib/Bio.Entrez/PyMOL (data handling and modeling)
+- Functional genomics interpretation (*MTHFR*, *COMT*, *BDNF*, PGX databases), LaTeX, Markdown) for scientific synthesis.
 - Learning bioinformatics and improving my biopython skills
 
 ## $\color{mediumpurple}{\text{💫Future Directions}}$
 
-- Analyzing direct models of *TAAR1* (binding pocket topological anomalies in models of autism, Williams Syndrome and comparing them to neurotypicals using Quantum Toolbox in Python (QuTip) for high-level quantum biochemical simulations.
-- Using genome sequencing to quantify the evolutionary domestication hypothesis involving *GTF2I* and amylase genes (wolves-to-dogs/domesticated humans and Williams Syndrome)
-- Phylogenomic modeling of the self-domestication syndrome: Comparing the dendritic branching patterns, perineuronal net tension and flux, GTF2I anomalies, and TAAR-1 alterations in large-scale studies of multiple ASD/WS/neurotypical models to the Geschwind Lab's autism genomic and epigenomic data, and analyzing the epigenetic landscape of evolutionary domestication, WS, and ASD using Dr. Matteo Pellegrini's computational tools.
-- Developing a machine learning model that predicts how certain molecules interact topologically with receptors, DNA, and *GTF2I* sites (e.g., how different phenethylamine substitutions might interact with *TAAR1*/oxytocin signaling expression and induce phonon coupling and non-linear recursive tesseract helical fluctuations that reverberate across these domains).
-- Modeling isoquinolone-induced signal stabilization: Probing the transition of recursive tesseract fluctuations into coherent soliton waves.
-Isoquinilone groups (e.g., in berberine, ibogaine and pharmaceutical analogs) are thought to induce a phase transition via *OXTR* and *TAAR1* stacking interactions, converting recursive tesseract fluctuations into stable soliton waves that propagate to the *GTF2I* and *OXTR* loci via DNA intercalation.
-
+* Expanding comparative *TAAR1* binding-pocket topology across neurodivergent models using computational simulation frameworks.
+* Utilizing structural bioinformatics (PyMOL) to model binding interactions of GDNF-related motifs and indole derivatives.
+* Investigating phylogenomic parallels of the self-domestication syndrome (*GTF2I*, amylase gene duplication) relative to human social evolution.
+* Developing machine learning models to predict molecular docking and genomic sequence alignment
 
 > $\color{#d30a7c}{\text{☮️ Peace, love, and science!}}$
